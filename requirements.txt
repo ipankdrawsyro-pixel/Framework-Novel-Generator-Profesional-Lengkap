@@ -6,3 +6,6 @@ Pillow==10.3.0
 plotly==5.21.0
 pyyaml==6.0.1
 python-dotenv==1.0.0
+git add runtime.txt
+git commit -m "fix: pin Python version to 3.11 for stability"
+git push origin main
