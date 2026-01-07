@@ -1,8 +1,8 @@
 # File: requirements.txt
 streamlit==1.29.0
-pandas==2.1.4
-numpy==1.24.3
-Pillow==10.1.0
-plotly==5.18.0
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.3.0
+plotly==5.21.0
 pyyaml==6.0.1
 python-dotenv==1.0.0
